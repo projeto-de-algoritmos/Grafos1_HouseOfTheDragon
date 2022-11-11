@@ -1,30 +1,17 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# House of the Dragon Connections
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0045269  |  Sara Campos |
+| 17/0111059  |  Matheus Fonseca Sousa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+![houseofthedragon](assets/images/wallpaper.jpg)
+Este projeto é inspirado na série House of the Dragon e tem como objetivo implementar algoritmos de busca em grafos para encontrar o grau de parentesco entre dois personagens da família Targaryen.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
