@@ -1,0 +1,32 @@
+.familytree-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.familytree-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border: 0;
+  background-color: transparent;
+}
+
+.familytree-item img {
+  width: 100%;
+  max-width: 80px;
+  border-radius: 50%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  background-color: grey;
+}
+
+.familytree-item.active img {
+  border: 2px solid red;
+}
