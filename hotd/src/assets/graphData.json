@@ -16,6 +16,5 @@
           "source": "id1",
           "target": "id2"
       }
-  ], 
-  "isDirected": true 
+  ]
 }
